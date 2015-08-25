@@ -483,6 +483,7 @@
 				3CB680BC1B8B9C5600F84CF8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3CB680BD1B8B9C5600F84CF8 /* Build configuration list for PBXNativeTarget "Test_ColorPickerTests" */ = {
 			isa = XCConfigurationList;
@@ -491,6 +492,7 @@
 				3CB680BF1B8B9C5600F84CF8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3CB680C01B8B9C5600F84CF8 /* Build configuration list for PBXNativeTarget "Test_ColorPickerUITests" */ = {
 			isa = XCConfigurationList;
@@ -499,6 +501,7 @@
 				3CB680C21B8B9C5600F84CF8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
